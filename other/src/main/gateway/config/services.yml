@@ -1,0 +1,9 @@
+other/Information:
+  url: "/info"
+  policy: "other/Information"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}

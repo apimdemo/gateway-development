@@ -1,0 +1,36 @@
+example/env-configuration:
+  url: "/env-configuration"
+  policy: "example/env-configuration"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
+example/Hello:
+  url: "/hello"
+  policy: "example/Hello"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
+example/example01:
+  url: "/example01"
+  policy: "example/example01"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
+example/Information:
+  url: "/info"
+  policy: "example/Information"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
